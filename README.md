@@ -11,3 +11,5 @@ Text and such in app is just bigger
 ## Actual behavior
 
 Entire layout is offset to the left
+
+![image showing the bug](https://github.com/spacecowboy/JetpackComposeOffsetBug/blob/6c3fc8727e63ebc32ee3069c679649963f0e16a5/offset.png)
